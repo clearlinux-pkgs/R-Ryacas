@@ -4,7 +4,7 @@
 #
 Name     : R-Ryacas
 Version  : 1.1.5
-Release  : 11
+Release  : 12
 URL      : https://cran.r-project.org/src/contrib/Ryacas_1.1.5.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/Ryacas_1.1.5.tar.gz
 Summary  : R Interface to the 'Yacas' Computer Algebra System
